@@ -6,16 +6,16 @@ header-includes: <link rel="icon" type="image/png" href="img/resume.png" />
 pagetitle: Gaurav Kushwaha
 ---
 
-![alt text](<img/ gaurav.jpeg>)
+![Gaurav Kushwaha](<img/ gaurav.jpeg>)
 
 Gaurav Kushwaha
 ==================
 
+######  
 
+####  To get a growth oriented position in a reputed organization where my skills can be utilize for the growth of the organization
 
-######  To get a growth oriented position in a reputed organization where my skills can be utilize for the growth of the organization
-
-######  [imgauravkushwaha.github.io](https://imgauravkushwaha.github.io/) . [linkedin.com/in/gauravkushwaha1212](https://linkedin.com/in/gauravkushwaha1212).[gkushwaha1212@gmail.com](mailto:gkushwaha1212@gmail.com) . [+91 9770726122](tel:+919770726122)
+######  [imgauravkushwaha.github.io](https://imgauravkushwaha.github.io/) . [linkedin.com/in/gauravkushwaha1212](linkedin.com/in/gauravkushwaha1212) . [gkushwaha1212@gmail.com](mailto:gkushwaha1212@gmail.com) . [+91 9770726122](tel:+919770726122)
 
 <br>
 
@@ -59,19 +59,19 @@ Gaurav Kushwaha
 -  Member of Social Welfare Society of District (2020)
 
 ## TECHNICAL SKILLS
-#### Language  &nbsp; - C#
+#### Language - C#
 
 
-#### Database &nbsp;- Sql Server 
+#### Database- Sql Server 
 
 
-#### Technologies &nbsp;- Asp.Net
+#### Technologies- Asp.Net
 
 
-#### Framework &nbsp;- Asp.Net MVC
+#### Framework- Asp.Net MVC
 
 
-#### Web Technologies &nbsp;- HTML , CSS
+#### Web Technologies- HTML , CSS
 
 
  
