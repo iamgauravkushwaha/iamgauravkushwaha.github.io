@@ -11,11 +11,11 @@ pagetitle: Gaurav Kushwaha
 Gaurav Kushwaha
 ==================
 
+######  
 
+####  To get a growth oriented position in a reputed organization where my skills can be utilize for the growth of the organization
 
-######  To get a growth oriented position in a reputed organization where my skills can be utilize for the growth of the organization
-
-######  [imgauravkushwaha.github.io](https://imgauravkushwaha.github.io/) . [linkedin.com/in/gauravkushwaha1212](https://linkedin.com/in/gauravkushwaha1212).[gkushwaha1212@gmail.com](mailto:gkushwaha1212@gmail.com) . [+91 9770726122](tel:+919770726122)
+######  [imgauravkushwaha.github.io](https://imgauravkushwaha.github.io/) . [linkedin.com/in/gauravkushwaha1212](linkedin.com/in/gauravkushwaha1212) . [gkushwaha1212@gmail.com](mailto:gkushwaha1212@gmail.com) . [+91 9770726122](tel:+919770726122)
 
 <br>
 
