@@ -6,7 +6,7 @@ header-includes: <link rel="icon" type="image/png" href="img/resume.png" />
 pagetitle: Gaurav Kushwaha
 ---
 
-![alt text](<img/ gaurav.jpeg>)
+![Gaurav Kushwaha](<img/ gaurav.jpeg>)
 
 Gaurav Kushwaha
 ==================
@@ -59,19 +59,19 @@ Gaurav Kushwaha
 -  Member of Social Welfare Society of District (2020)
 
 ## TECHNICAL SKILLS
-#### Language  &nbsp; - C#
+#### Language - C#
 
 
-#### Database &nbsp;- Sql Server 
+#### Database- Sql Server 
 
 
-#### Technologies &nbsp;- Asp.Net
+#### Technologies- Asp.Net
 
 
-#### Framework &nbsp;- Asp.Net MVC
+#### Framework- Asp.Net MVC
 
 
-#### Web Technologies &nbsp;- HTML , CSS
+#### Web Technologies- HTML , CSS
 
 
  
