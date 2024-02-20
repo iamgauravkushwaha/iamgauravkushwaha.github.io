@@ -24,7 +24,6 @@ Gaurav Kushwaha
 - Quick learner, Ready to adapt to new technologies.
 - Proficient in C# Programming Language.
 - Have good communication and logical skills.
-<br>
 
 ## OPEN SOURCE PROJECTS
 **[Blood Donor](https://github.com/iamgauravkushwaha/Blood-Donor.git)**:  Developed a user-friendly web application connecting blood donors with recipients in realtime. Users can sign up, request blood donations, and admins manage user accounts.Implemented features include enhanced account security, privacy measures for contact details,and efficient search functionality based on location and blood group. Achievements include creating a successful platform for donor-recipient interaction and implementing a fair distribution system.
@@ -47,16 +46,16 @@ Gaurav Kushwaha
 #### Framework - Asp.Net MVC
 #### Web Technologies - HTML , CSS
 #### IDE/Tools - Visual Studio|Visual Studio Code|SQL Server
+<br>
 
-<br>
-<br>
-  
-## EDUCATIONgit
+ 
+## EDUCATION
 **Bachelor of Technology**,  Jawaharlal Nehru College Of Technology (July 2019- Apr 2023)
 
 **Higher Secondary School(10+2)**, Govt. Martand No.1 Excellence School (Aug 2018 - Mar 2019)
 
 **Secondary School (10)**, B.N.P Memorial Higher Secondary School (Aug 2016 - Mar 2017)
+
 
  
 ## Participations And Achievements
