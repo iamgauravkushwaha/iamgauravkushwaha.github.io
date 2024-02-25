@@ -15,14 +15,17 @@ Gaurav Kushwaha
 ####  To get a growth oriented position in a reputed organization where my skills can be utilize for the growth of the organization
 
 ######  [iamgauravkushwaha.github.io](https://iamgauravkushwaha.github.io/) . [linkedin.com/in/gauravkushwaha1212](https://linkedin.com/in/gauravkushwaha1212) . [gkushwaha1212@gmail.com](mailto:gkushwaha1212@gmail.com) . [+91 9770726122](tel:+919770726122)
-
 <br>
 
 ## PROFESSIONAL SUMMARY
-- Have good knowledge on ASP.NET, ADO.NET, HTML, CSS, SQL Server 2019.
+- Have good knowledge on ASP.NET, ADO.NET, HTML, CSS and SQL Server.
+
 - Proficient in OOPS.
+
 - Quick learner, Ready to adapt to new technologies.
+
 - Proficient in C# Programming Language.
+
 - Have good communication and logical skills.
 
 ## OPEN SOURCE PROJECTS
@@ -38,24 +41,27 @@ Gaurav Kushwaha
 ## TRAINING
 Full Stack .NET Development from Sathya Technologies Hyderabad.  (June 2023 – Dec 2023)
 
-
 ## TECHNICAL SKILLS
-#### Language - C#
-#### Database - Sql Server 
-#### Technologies - Asp.Net
-#### Framework - Asp.Net MVC
-#### Web Technologies - HTML , CSS
-#### IDE/Tools - Visual Studio|Visual Studio Code|SQL Server
- 
- 
+- Language : C#
+
+- Database : Sql Server 
+
+- Technologies : ASP.NET
+
+- Data Access Technology : ADO.NET
+
+- Framework : ASP.NET MVC,ASP.NET Core MVC
+
+- Web Technologies : HTML , CSS
+
+- IDE/Tools : Visual Studio|Visual Studio Code|SQL Server
+  
 ## EDUCATION
-**Bachelor of Technology**,  Jawaharlal Nehru College Of Technology (July 2019- Apr 2023)
+**Bachelor of Technology**,  Jawaharlal Nehru College Of Technology (2019 - 2023)
 
-**Higher Secondary School(10+2)**, Govt. Martand No.1 Excellence School (Aug 2018 - Mar 2019)
+**Higher Secondary School(10+2)**, Govt. Martand No.1 Excellence School (2018 - 2019)
 
-**Secondary School (10)**, B.N.P Memorial Higher Secondary School (Aug 2016 - Mar 2017)
-
-
+**Secondary School (10)**, B.N.P Memorial Higher Secondary School (2016 - 2017)
  
 ## PARTICIPATIONS AND ACHIEVEMENTS
 
@@ -64,6 +70,18 @@ Full Stack .NET Development from Sathya Technologies Hyderabad.  (June 2023 – 
 -  College level sports program Cricket Champion (2019)
 
 -  Member of Social Welfare Society of District (2020)
+
+## PERSONAL DETAILS
+
+- Date of birth : 12-12-2001
+
+- Address : Chirahula Rewa Madhya Pradesh (486001)
+
+- Current Address : Ameerpet Hyderabad
+
+- Languages : English , Hindi
+
+- Hobbies : Workout in GYM,Cricket,Spending time with family
 
 
 
