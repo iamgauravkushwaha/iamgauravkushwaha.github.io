@@ -6,7 +6,7 @@ header-includes: <link rel="icon" type="image/png" href="img/resume.png" />
 pagetitle: Gaurav Kushwaha
 ---
 
-![](<img/ gaurav.jpeg>)
+ ![ ](<img/guru (1).jpeg>)
 
 Gaurav Kushwaha
 ==================
@@ -37,10 +37,13 @@ Gaurav Kushwaha
 
 **[Hotel Billing System](https://github.com/iamgauravkushwaha/Hotel-Billing-System.git)**: Developed a Hotel Billing System designed to enhance the overall customer billing experience. The system boasts a user-friendly interface, beginning with a warm welcome message and guiding users seamlessly through menu selection and order confirmation. Noteworthy features include an iterative process for adding items, easy order modification options, and a detailed bill presentation for transparent billing.
   Technologies used: C# (Console Application).
+ 
 
 ## TRAINING
 Full Stack .NET Development from Sathya Technologies Hyderabad.  (June 2023 – Dec 2023)
 
+ <br>
+ 
 ## TECHNICAL SKILLS
 - Language : C#
 
