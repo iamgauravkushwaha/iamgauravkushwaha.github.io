@@ -6,7 +6,7 @@ header-includes: <link rel="icon" type="image/png" href="img/resume.png" />
 pagetitle: Gaurav Kushwaha
 ---
 
- ![ ](<img/guru (1).jpeg>)
+ ![ ](img/download.jpeg)
 
 Gaurav Kushwaha
 ==================
@@ -41,9 +41,7 @@ Gaurav Kushwaha
 
 ## TRAINING
 Full Stack .NET Development from Sathya Technologies Hyderabad.  (June 2023 – Dec 2023)
-
- <br>
- 
+  
 ## TECHNICAL SKILLS
 - Language : C#
 
