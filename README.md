@@ -37,10 +37,14 @@ Gaurav Kushwaha
 
 **[Hotel Billing System](https://github.com/iamgauravkushwaha/Hotel-Billing-System.git)**: Developed a Hotel Billing System designed to enhance the overall customer billing experience. The system boasts a user-friendly interface, beginning with a warm welcome message and guiding users seamlessly through menu selection and order confirmation. Noteworthy features include an iterative process for adding items, easy order modification options, and a detailed bill presentation for transparent billing.
   Technologies used: C# (Console Application).
+
+**[Amazon Clone](https://github.com/iamgauravkushwaha/amazon-interface.git)**: I designed and styled a prototype of an Amazon clone using HTML and CSS, focusing on replicating the layout and visual design of the original website. The project showcased my ability to design and style complex web interfaces.
  
 
 ## TRAINING
 Full Stack .NET Development from Sathya Technologies Hyderabad.  (June 2023 – Dec 2023)
+
+<br>
   
 ## TECHNICAL SKILLS
 - Language : C#
