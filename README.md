@@ -5,28 +5,37 @@ lang: English
 header-includes: <link rel="icon" type="image/png" href="img/resume.png" />
 pagetitle: Gaurav Kushwaha
 ---
-
- ![ ](img/download.jpeg)
+ ![ ](img/gaurav.png)
 
 Gaurav Kushwaha
 ==================
 
 
-####  To get a growth oriented position in a reputed organization where my skills can be utilize for the growth of the organization
+####  To get a growth oriented position in a reputed organization where my skills can be utilize for the growth of the organization.
 
 ######  [iamgauravkushwaha.github.io](https://iamgauravkushwaha.github.io/) . [linkedin.com/in/gauravkushwaha1212](https://linkedin.com/in/gauravkushwaha1212) . [gkushwaha1212@gmail.com](mailto:gkushwaha1212@gmail.com) . [+91 9770726122](tel:+919770726122)
 <br>
 
 ## PROFESSIONAL SUMMARY
-- Have good knowledge on ASP.NET, ADO.NET, HTML, CSS and SQL Server.
+- Have good knowledge on ASP.NET, ASP.NET MVC and SQL Server.
 
 - Proficient in OOPS.
 
-- Quick learner, Ready to adapt to new technologies.
+- Quick learner, Ready to adapt a new technologies.
 
 - Proficient in C# Programming Language.
 
 - Have good communication and logical skills.
+
+
+## EXPERIENCE
+
+#### Junior Software Developer At Virim Infotech , Indore,Madhya Pradesh   (March 2024 - Present)
+
+- Here working on ASP.NET MVC. Have a good understanding of MVC architecture,Entity Framework,Linq and Jquery Ajax.
+
+## TRAINING
+Full Stack .NET Development from Sathya Technologies Hyderabad.  (June 2023 – Dec 2023)
 
 ## OPEN SOURCE PROJECTS
 **[Blood Donor](https://github.com/iamgauravkushwaha/Blood-Donor.git)**:  Developed a user-friendly web application connecting blood donors with recipients in realtime. Users can sign up, request blood donations, and admins manage user accounts.Implemented features include enhanced account security, privacy measures for contact details,and efficient search functionality based on location and blood group. Achievements include creating a successful platform for donor-recipient interaction and implementing a fair distribution system.
@@ -40,11 +49,7 @@ Gaurav Kushwaha
 
 **[Amazon Clone](https://github.com/iamgauravkushwaha/amazon-interface.git)**: I designed and styled a prototype of an Amazon clone using HTML and CSS, focusing on replicating the layout and visual design of the original website. The project showcased my ability to design and style complex web interfaces.
  
-
-## TRAINING
-Full Stack .NET Development from Sathya Technologies Hyderabad.  (June 2023 – Dec 2023)
-
-<br>
+ 
   
 ## TECHNICAL SKILLS
 - Language : C#
@@ -68,21 +73,13 @@ Full Stack .NET Development from Sathya Technologies Hyderabad.  (June 2023 – 
 
 **Secondary School (10)**, B.N.P Memorial Higher Secondary School (2016 - 2017)
  
-## PARTICIPATIONS AND ACHIEVEMENTS
-
--   First prize in cultural program (2017)
-
--  College level sports program Cricket Champion (2019)
-
--  Member of Social Welfare Society of District (2020)
-
 ## PERSONAL DETAILS
 
 - Date of birth : 12-12-2001
 
 - Address : Chirahula Rewa Madhya Pradesh (486001)
 
-- Current Address : Ameerpet Hyderabad
+- Current Address : Indore , Madhya Pradesh
 
 - Languages : English , Hindi
 
