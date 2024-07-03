@@ -1,4 +1,4 @@
----
+u---
 author: Gaurav Kushwaha
 description: .Net Developer
 lang: English
@@ -32,7 +32,11 @@ Gaurav Kushwaha
 
 #### Junior Software Developer At Virim Infotech , Indore,Madhya Pradesh   (March 2024 - Present)
 
-- Here working on ASP.NET MVC. Have a good understanding of MVC architecture,Entity Framework,Linq and Jquery Ajax.
+- Developed and maintained web applications using ASP.NET MVC, ensuring high performance and responsiveness.
+- Designed and implemented user interfaces using HTML, CSS, JavaScript, and jQuery.
+- Built and consumed RESTful APIs to facilitate seamless data exchange between the front-end and back-end.
+- Utilized Entity Framework for data access and manipulation, ensuring efficient database interactions.
+- Implemented CRUD operations and stored procedures to manage data in SQL Server.
 
 ## TRAINING
 Full Stack .NET Development from Sathya Technologies Hyderabad.  (June 2023 – Dec 2023)
@@ -52,7 +56,19 @@ Full Stack .NET Development from Sathya Technologies Hyderabad.  (June 2023 – 
  
   
 ## TECHNICAL SKILLS
-- Language : C#
+
+- Languages: C#, JavaScript, HTML, CSS
+
+- Frameworks: ASP.NET MVC, .NET Framework, Entity Framework
+
+- Databases: SQL Server
+
+- Front-End Technologies: jQuery, Bootstrap, Kendo UI
+
+- Tools: Visual Studio,SSMS ,Git
+
+- Other: RESTful APIs, JSON, AJAX, LINQ
+<!-- - Language : C#
 
 - Database : Sql Server 
 
@@ -65,7 +81,7 @@ Full Stack .NET Development from Sathya Technologies Hyderabad.  (June 2023 – 
 - Web Technologies : HTML , CSS
 
 - IDE/Tools : Visual Studio|Visual Studio Code|SQL Server
-  
+   -->
 ## EDUCATION
 **Bachelor of Technology**,  Jawaharlal Nehru College Of Technology (2019 - 2023)
 
