@@ -18,13 +18,9 @@ Gaurav Kushwaha
 
 ## PROFESSIONAL SUMMARY
 - Have good knowledge on ASP.NET, ASP.NET MVC and SQL Server.
-
 - Proficient in OOPS.
-
 - Quick learner, Ready to adapt a new technologies.
-
 - Proficient in C# Programming Language.
-
 - Have good communication and logical skills.
 
 
@@ -58,15 +54,10 @@ Full Stack .NET Development from Sathya Technologies Hyderabad.  (June 2023 – 
 ## TECHNICAL SKILLS
 
 - Languages: C#, JavaScript, HTML, CSS
-
 - Frameworks: ASP.NET MVC, .NET Framework, Entity Framework
-
 - Databases: SQL Server
-
 - Front-End Technologies: jQuery, Bootstrap, Kendo UI
-
 - Tools: Visual Studio,SSMS ,Git
-
 - Other: RESTful APIs, JSON, AJAX, LINQ
 <!-- - Language : C#
 
