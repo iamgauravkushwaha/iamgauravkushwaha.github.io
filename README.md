@@ -1,4 +1,4 @@
-u---
+---
 author: Gaurav Kushwaha
 description: .Net Developer
 lang: English
@@ -82,7 +82,10 @@ Full Stack .NET Development from Sathya Technologies Hyderabad.  (June 2023 – 
 
 - IDE/Tools : Visual Studio|Visual Studio Code|SQL Server
    -->
+
+
 ## EDUCATION
+
 **Bachelor of Technology**,  Jawaharlal Nehru College Of Technology (2019 - 2023)
 
 **Higher Secondary School(10+2)**, Govt. Martand No.1 Excellence School (2018 - 2019)
