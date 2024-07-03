@@ -92,7 +92,7 @@ Full Stack .NET Development from Sathya Technologies Hyderabad.  (June 2023 – 
 
 **Secondary School (10)**, B.N.P Memorial Higher Secondary School (2016 - 2017)
  
-## PERSONAL DETAILS
+<!-- ## PERSONAL DETAILS
 
 - Date of birth : 12-12-2001
 
@@ -103,7 +103,7 @@ Full Stack .NET Development from Sathya Technologies Hyderabad.  (June 2023 – 
 - Languages : English , Hindi
 
 - Hobbies : Workout in GYM,Cricket,Spending time with family
-
+ -->
 
 
 
